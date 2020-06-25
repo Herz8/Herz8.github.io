@@ -10,3 +10,5 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 * sympathic
 
 > I'm sure the word you were looking for was "symbolism."
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Willem_Dafoe_2006.jpg"/>
