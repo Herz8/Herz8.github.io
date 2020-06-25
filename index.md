@@ -8,3 +8,5 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 * likeable
 * friendly 
 * sympathic
+
+> I'm sure the word you were looking for was "symbolism."
